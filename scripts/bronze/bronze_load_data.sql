@@ -1,4 +1,4 @@
---loading data from csv into tables 
+--loading data from csv into tables
 --NOTE: replace YourDataPath in FROM caluse with your csv path
 TRUNCATE TABLE bronze.crm_cust_info; --scince committing full load, making sure tables are empty before loading data (avoiding duplicates)
 BULK INSERT bronze.crm_cust_info
