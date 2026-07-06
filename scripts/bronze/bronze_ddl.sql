@@ -1,6 +1,6 @@
 --creating all tables in bronze layer before loading data from csv
 CREATE TABLE bronze.crm_cust_info(
-cst_id	INT 
+cst_id	INT
 ,cst_key NVARCHAR(50)
 ,cst_firstname NVARCHAR(50)
 ,cst_lastname NVARCHAR(50)	
