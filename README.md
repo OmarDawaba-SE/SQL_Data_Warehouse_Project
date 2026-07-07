@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Data Architecture
 
 <img width="997" height="821" alt="Data Architecture for WareHouse Project" src="https://github.com/user-attachments/assets/c5a1b0a0-f0e2-4bc5-a5be-19d04e7738cb" />
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 This project involves:
 
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
